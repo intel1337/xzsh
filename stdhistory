@@ -23,3 +23,37 @@ cd ..
 ls
 ls
 cd ..
+ls
+cd ..
+cmatrix -r
+ls
+man ls
+mkdir este
+ls
+rm -d este
+ls
+open code
+[A.
+history
+code .
+ls
+cd ..
+ls
+nano user
+cd config
+cd sxd
+ls
+ls
+ls
+ls
+/usr/local/bin/python3 /Users/x1337/Desktop/Plateforme/Python/massizsh/main.py
+cd
+ls
+ls
+ls
+touch README.md
+ls
+cat user 
+ls
+nano user
+ /usr/bin/env /usr/local/bin/python3 /Users/x1337/.vscode/extensions/ms-python.debugpy-2024.12.0-darwin-arm64/bundled/libs/debugpy/adapter/../../debugpy/launcher 65527 -- /Users/x1337/Desktop/Plateforme/Python/massizsh/setup.py 
