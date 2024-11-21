@@ -8,6 +8,7 @@ if platform.system() == "Linux":
     os.system('sudo apt install fastfetch')
 elif platform.system() == "Darwin":
     os.system('brew install fastfetch')
+os.system('clear')
 inp = input("Enter your username: ")
 with open("user", "a") as usr:
     usr.write(inp)

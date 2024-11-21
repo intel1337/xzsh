@@ -74,3 +74,8 @@ ls
 [A
 git init
 git add *
+git add .
+git commit -m "test"
+git push
+ls
+git init
